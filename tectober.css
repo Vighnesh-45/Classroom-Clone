@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.sec{
+    display: flex;
+    
+}
+
+.box {
+    border: .1rem solid black;
+    height: 24rem;
+    width: 32rem;
+    margin: 1rem;
+    border-radius: 1.5rem;
+    
+    /* padding: 10rem; */
+}
+
+.fi-he {
+    background-color: aqua;
+    height: 10rem;
+    border-top-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+
+}
+
+.dp img {
+    height: 6rem;
+    margin-left: 22rem;
+    margin-top: -3.5rem;
+}
+
+h1 {
+    margin: 0;
+    padding-top: 2.5rem;
+    padding-left: 1rem;
+}
+.logo{
+    display: flex;
+    margin: 0;
+}
+.logo h1{
+    display: flex;
+    flex: row;
+    margin: 0;
+}
+
+.te{
+    margin-top: 2rem;
+    padding-left: 2rem;
+}
+
+.box hr{
+    margin-top: 6.5rem;
+}
+.ft-im img{
+    height: 2.5rem;
+    margin-left: 28rem;
+    margin-top: .5rem;
+}
+ul{
+    display: flex;
+    margin-left: 108rem;
+}
+li{
+    list-style: none;
+}
+.icons img{
+    height: 5rem;
+    padding-right: 2rem;
+}
+.navbar{
+    display: flex;
+}
+.pl{
+    margin-right: 2rem;
+    margin-top: -.5rem;
+    font-size: 5rem;
+}
+.b{
+    color: blue;
+}
+.r{
+    color: red;
+}
+.g{
+    color: green;
+}
+.y{
+    color: yellow;
+}
+.cl{
+    padding-left: .5rem;
+}
+.box:hover{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.card{
+    background-color: blueviolet;
+    height: 30rem;
+    width: 98%;
+    margin-left: 1%;
+}
+.card1{
+    height: 10rem;
+    background-color: wheat;
+    width: 20rem;
+    margin-top: 3rem;
+    margin-left: 1%;
+    
+}

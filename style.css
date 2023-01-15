@@ -1,0 +1,148 @@
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.sec {
+  display: flex;
+}
+
+.box {
+  border: 0.1rem solid black;
+  height: 24rem;
+  width: 32rem;
+  margin: 1rem;
+  border-radius: 1.5rem;
+
+  /* padding: 10rem; */
+}
+
+.to-do {
+  padding: 2rem;
+  margin-left: 2rem;
+}
+
+.to-do label {
+    color: #2962ff;
+  padding: 1rem;
+  margin-left: 1rem;
+  font-size: 25px;
+}
+
+.to-do img {
+  height: 2rem;
+}
+
+.Calendar {
+  padding: 2rem;
+  margin-top: -6.7rem;
+  margin-left: 15rem;
+}
+
+.Calendar label {
+  color: #2962ff;
+  padding: 1rem;
+  margin-left: 1rem;
+  font-size: 25px;
+}
+
+.Calendar img {
+    color: #2962ff;
+  height: 2rem;
+}
+
+.fi-he {
+  background-color: aqua;
+  height: 10rem;
+  border-top-left-radius: 1.5rem;
+  border-top-right-radius: 1.5rem;
+  font-size: 1.375rem;
+  font-weight: 400;
+}
+
+.dp img {
+  height: 6rem;
+  margin-left: 22rem;
+  margin-top: -3.5rem;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 1rem;
+  padding-left: 2rem;
+}
+.logo {
+  display: flex;
+  margin: 0;
+}
+.logo h1 {
+  display: flex;
+  flex: row;
+  margin: 0;
+  margin-left: 5rem;
+}
+
+.te {
+  margin-top: 2rem;
+  padding-left: 2rem;
+}
+
+.box hr {
+  margin-top: 6.5rem;
+}
+.ft-im img {
+  height: 2.5rem;
+  margin-left: 28rem;
+  margin-top: 0.5rem;
+}
+ul {
+  display: flex;
+  margin-left: 95rem;
+}
+li {
+  list-style: none;
+}
+.icons img {
+  height: 5rem;
+  padding-right: 2rem;
+}
+.navbar {
+  display: flex;
+}
+.pl {
+  margin-right: 2rem;
+  margin-top: -0.5rem;
+  font-size: 5rem;
+}
+.b {
+  color: blue;
+}
+.r {
+  color: red;
+}
+.g {
+  color: green;
+}
+.y {
+  color: yellow;
+}
+.cl {
+  padding-left: 0.5rem;
+}
+.box:hover {
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.head {
+  font-size: 25rem;
+}
